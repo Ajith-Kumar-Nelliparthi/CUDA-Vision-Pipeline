@@ -1,1 +1,1 @@
-# CUDA-Vision-Pipeline
+# ![alt text](geometry.jpg) CUDA Vision Pipeline: Real-Time Edge Detection
